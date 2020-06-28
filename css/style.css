@@ -679,18 +679,11 @@ body {
     @media only screen and (max-width: 56.25em) {
       .footer__logo-box {
         margin-bottom: 6rem; } }
-  .footer__logo-1 {
+  .footer__logo {
     width: 15rem;
     margin: 2rem;
-    height: auto; }
-  .footer__logo-2 {
-    width: 15rem;
-    margin: 2rem;
-    height: auto; }
-  .footer__logo-3 {
-    width: 15rem;
-    margin: 2rem;
-    height: auto; }
+    height: auto;
+    background-color: #333; }
   .footer__navigation {
     border-top: 1px solid #777;
     padding-top: 2rem;

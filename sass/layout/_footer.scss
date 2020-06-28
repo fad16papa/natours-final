@@ -17,22 +17,11 @@
     }
   }
 
-  &__logo-1 {
+  &__logo {
     width: 15rem;
     margin: 2rem;
     height: auto;
-  }
-
-  &__logo-2 {
-    width: 15rem;
-    margin: 2rem;
-    height: auto;
-  }
-
-  &__logo-3 {
-    width: 15rem;
-    margin: 2rem;
-    height: auto;
+    background-color: $color-grey-dark-3;
   }
 
   &__navigation {
